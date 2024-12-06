@@ -1,3 +1,4 @@
+ HEAD
 # Sentiment Classifier
 
 ## Overview
@@ -14,5 +15,8 @@ This project is a sentiment analysis tool designed to classify movie reviews int
 To run this project locally, clone the repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/your_username/your_repo_name.git
+git clone https://github.com/Priyanshukv06/sentiment_classifier.git
 cd your_repo_name
+
+# sentiment_classifier
+de4aab11f4766409949466e60e78386a329c8bcc
